@@ -13,3 +13,5 @@ Imports: jsonlite,
     dplyr
 Suggests: testthat
 RoxygenNote: 6.0.1
+URL: https://github.com/jefferis/rflyem
+BugReports: https://github.com/jefferis/rflyem/issues
