@@ -1,0 +1,13 @@
+Package: rflyem
+Type: Package
+Title: Tools for working with Janelia FlyEM data
+Version: 0.1.0
+Authors@R: person("Gregory","Jefferis", email="jefferis@gmail.com", role = c("aut", "cre"))
+Description: A small collection of R functions for working with connectomic data
+    released by the Janelia FlyEM team. These are designed to talk to the 
+    DICED/DVID service at http://emdata.janelia.org.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: jsonlite
+Suggests: testthat
